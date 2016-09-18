@@ -1,0 +1,12 @@
+{
+	"ImportPath": "github.com/R4CHI7/imdb-cli",
+	"GoVersion": "go1.4",
+	"GodepVersion": "v61",
+	"Deps": [
+		{
+			"ImportPath": "github.com/urfave/cli",
+			"Comment": "v1.18.0-67-gd53eb99",
+			"Rev": "d53eb991652b1d438abdd34ce4bfa3ef1539108e"
+		}
+	]
+}
